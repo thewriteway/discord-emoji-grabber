@@ -1,0 +1,19 @@
+{
+  "name": "discord-emoji-grabber",
+  "version": "1.0.0",
+  "description": "Downloads emojis from all your discord servers",
+  "repository": "https://github.com/therightway/discord-emoji-grabber",
+  "private": true,
+  "main": "index.js",
+  "author": "therightway",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js.old": "^11.6.4",
+    "prism-media": "0.0.3",
+    "ps-node": "^0.1.6",
+    "sanitize-filename": "^1.6.1",
+    "setimmediate": "^1.0.5",
+    "shelljs": "^0.8.2",
+    "ws": "^6.1.2"
+  }
+}
